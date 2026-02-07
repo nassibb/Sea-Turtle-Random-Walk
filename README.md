@@ -1,0 +1,1 @@
+This animation demonstrates the random walk of a LoggerHead Turtle migrating from its feeding location on the Canary Islands to its nesting site on the coast of America. Plotted on the Molleweilde projection using the cartopy package, this better visualizes and represents the telemetry location of the animal as it moves through the Atlantic Ocean.
