@@ -1,4 +1,4 @@
-## A Cognitive Model of A DLA Sea Turtle Path Migration
+## Cognitive Model of DLA Sea Turtle Path Migration
 
 This project was inspired by the at-risk globally Loggerhead Turtles that migrate across the Atlantic using a stochastic movement model integrating random walks, cognitive modeling, and diffusion-limited aggregation(DLA).
 
